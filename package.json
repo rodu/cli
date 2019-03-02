@@ -43,7 +43,7 @@
     "preprocess": "^3.1.0",
     "rfc6902": "^2.4.0",
     "semver": "^5.3.0",
-    "terser": "^3.8.1",
+    "terser": "^3.16.1",
     "typescript": "^1.0.0 || ^2.0.0 || ^3.0.0"
   },
   "devDependencies": {
